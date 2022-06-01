@@ -1,14 +1,15 @@
 # What is Machine learning
-# Decision Trees
-# Naive Bayes
-# Gradient Descent
-# Linear regression
-# Logistic regression
-# Support Vector Machines
-# Neural Networks
-# Kernel Methods
-# K-means Clustering
-# Hierarchical Clustering
+# Supervised Learning
+### Linear regression
+### Decision Trees
+    Random Forest
+
+### Logistic regression
+### Support Vector Machines
+### Neural Networks
+### Kernel Methods
+### K-means Clustering
+### Hierarchical Clustering
 # Train and Test models
 # Evaluation matrix
 ### Confusion matrix
@@ -30,3 +31,8 @@
 ### R2 Score
 # Model Selection 
 ### Bias and Variance
+### Cross Validation
+### K-fold Cross Validation
+### Overfitting 
+### Underfitting
+### Entropy
